@@ -11,6 +11,10 @@ MCP server for [Junipr](https://junipr.io) APIs. Gives AI assistants access to 7
 | `metadata` | Extract title, description, Open Graph, Twitter Cards, JSON-LD, and more |
 | `run_tool` | Run any of 75+ Junipr tools by slug (scrapers, validators, converters, analyzers) |
 
+## Hosted deployment
+
+A hosted deployment is available on [Fronteir AI](https://fronteir.ai/mcp/junipr-labs-mcp-server).
+
 ## Setup
 
 ### 1. Get an API key
